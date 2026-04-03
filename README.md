@@ -6,6 +6,26 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 - Internship opportunities, hackathons, and collaborative tech projects
 - Web/mobile apps, automation tools, AI-powered student projects, and data dashboards
 
+### ⭐ Featured Projects
+
+**[HeritageLens](https://github.com/ZubaidaDev/heritagelens)** — An AI-powered travel platform for discovering the cultural history and heritage sites of the UAE.
+- Built with React, TypeScript, Vite, and Tailwind CSS; deployed as a live production web app
+- Integrates AI to provide personalized recommendations for UAE cultural landmarks and hidden gems
+- Backed by Supabase for real-time data and authentication
+- 🌐 [Live Demo](https://heritagelens.lovable.app/)
+
+**[Course Prerequisites Graph System](https://github.com/ZubaidaDev/Course-Prerequisites-Graph-System)** — A graph-based Java application that models and validates complex academic course dependencies.
+- Represents courses and prerequisites as a directed acyclic graph (DAG) using adjacency lists
+- Implements Kahn's algorithm for topological sorting to generate a valid course completion order
+- Detects circular prerequisite chains using DFS-based cycle detection
+- Interface-driven OOP architecture with abstract class hierarchies
+
+**[Hierarchical File Explorer](https://github.com/ZubaidaDev/Hierarchical-File-Explorer)** — A terminal-based file system simulator built on a custom N-ary tree data structure in Java.
+- Implements an N-ary tree to model a full hierarchical directory system
+- Supports dynamic directory navigation, recursive file/folder search, and full-tree visualization
+- Renders directory structure with level-based indentation via DFS traversal
+- Demonstrates core OOP principles: inheritance, abstraction, and encapsulation
+
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
