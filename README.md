@@ -3,8 +3,8 @@
 I’m an IT student at **Abu Dhabi University** with a focus on **software development** and building practical applications. I enjoy creating real-world projects, learning new technologies, and strengthening my problem-solving skills through hands-on work.
 
 ### 🎯 Interests
-- Internship opportunities, hackathons, and collaborative tech projects
-- Web/mobile apps, automation tools, AI-powered student projects, and data dashboards
+- Internship, hackathons, and collaborative tech projects
+- Web/mobile apps, automation tools, AI‑enhanced applications, and data dashboards
 
 ### ⭐ Featured Projects
 
@@ -33,10 +33,8 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📊 My GitHub Stats
 [![Zubaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZubaidaDev&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
