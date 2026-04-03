@@ -34,7 +34,7 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📊 My GitHub Stats
 [![Zubaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZubaidaDev&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
