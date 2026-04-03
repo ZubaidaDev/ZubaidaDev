@@ -15,8 +15,8 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 - 🌐 [Live Demo](https://heritagelens.lovable.app/)
 
 **[Course Prerequisites Graph System](https://github.com/ZubaidaDev/Course-Prerequisites-Graph-System)** — A graph-based Java application that models and validates complex academic course dependencies.
-- Represents courses and prerequisites as a Directed Acyclic Graph (DAG) using adjacency lists
-- Implements Kahn's Algorithm for topological sorting to generate a valid course completion order
+- Represents courses and prerequisites as a directed acyclic graph (DAG) using adjacency lists
+- Implements Kahn's algorithm for topological sorting to generate a valid course completion order
 - Detects circular prerequisite chains using DFS-based cycle detection
 - Interface-driven OOP architecture with abstract class hierarchies
 
