@@ -33,7 +33,7 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📊 My GitHub Stats
-[![Zubaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZubaidaDev&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Zubaida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZubaidaDev&show_icons=true&theme=github_dark)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubaidamohammedzafar)
