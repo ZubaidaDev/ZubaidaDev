@@ -23,6 +23,7 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 **[Hierarchical File Explorer](https://github.com/ZubaidaDev/Hierarchical-File-Explorer)** — A terminal-based file system simulator built on a custom N-ary tree in Java.
 - Implements tree-based navigation and recursive search across folders/files
 - Visualizes the full directory structure using depth-first traversal with indentation
+- Supports extension-based file lookup through recursive traversal of the directory tree
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
