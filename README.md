@@ -9,14 +9,16 @@ I’m an IT student at **Abu Dhabi University** with a focus on **software devel
 ### ⭐ Featured Projects
 
 **[HeritageLens](https://github.com/ZubaidaDev/heritagelens)** — An AI-powered travel platform for discovering the cultural history and heritage sites of the UAE.
-- Live demo web app built with React, TypeScript, Vite, and Tailwind CSS
-- Uses AI to provide personalized recommendations for cultural landmarks and hidden gems
+- Live demo web app created using Lovable with React, TypeScript, Vite, and Tailwind CSS
+- Uses AI to provide personalized recommendations for cultural landmarks and up-to-date place insights
 - Powered by Supabase for data management and authentication
+- Focused on documentation, analysis, and system modeling
 - 🌐 [Live Demo](https://heritagelens.lovable.app/)
 
 **[Course Prerequisites Graph System](https://github.com/ZubaidaDev/Course-Prerequisites-Graph-System)** — A graph-based Java application that models and validates academic course dependencies.
 - Uses a Directed Acyclic Graph (DAG) model with Kahn’s Algorithm for topological sorting
 - Detects circular prerequisites via DFS cycle detection to prevent invalid course plans
+- Recommends next eligible courses based on completed courses and prerequisite requirements
 
 **[Hierarchical File Explorer](https://github.com/ZubaidaDev/Hierarchical-File-Explorer)** — A terminal-based file system simulator built on a custom N-ary tree in Java.
 - Implements tree-based navigation and recursive search across folders/files
