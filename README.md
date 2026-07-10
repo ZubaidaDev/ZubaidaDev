@@ -1,4 +1,4 @@
-Zubaida
+# Zubaida
 
 I’m an IT student at **Abu Dhabi University** with a focus on **software development** and building practical applications. I enjoy creating real-world projects, learning new technologies, and strengthening my problem-solving skills through hands-on work.
 
